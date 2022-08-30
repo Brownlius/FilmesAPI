@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1q7z5UFClraveRc5yatrf0BX/1D8S1JLE9nkQq509ElK5/PNIfcfpHkV8sb1e4DQFSqq7r5VhAA5ExJ+4BcA7A==",
+  "dgSpecHash": "shzkLbM0kGVgaF9zOJkhFu8/d+NgMtvEbsj6ILJxbAhr2onsbgXzNyI1EidQXk4hTZrTZcv32pTvD4uf+HUYLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro Almeida\\Documents\\FilmesAPI\\FilmesAPI.csproj",
+  "projectFilePath": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro Almeida\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Pedro Almeida\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

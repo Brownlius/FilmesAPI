@@ -71,7 +71,6 @@ namespace FilmesAPI.Controllers
             }
             return NotFound();
         }
-        Movie Gustavo = new();
       
     }
 

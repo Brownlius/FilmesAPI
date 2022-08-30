@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Almeida\\Documents\\FilmesAPI\\FilmesAPI.csproj": {}
+    "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Almeida\\Documents\\FilmesAPI\\FilmesAPI.csproj": {
+    "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Almeida\\Documents\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Users\\Pedro Almeida\\Documents\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\Pedro Almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Almeida\\Documents\\FilmesAPI\\obj\\",
+        "outputPath": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
