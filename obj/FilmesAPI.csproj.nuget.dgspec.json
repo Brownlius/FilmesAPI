@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj": {}
+    "H:\\Github\\React_Native-Estudo\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj": {
+    "H:\\Github\\React_Native-Estudo\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "H:\\Github\\React_Native-Estudo\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\FilmesAPI.csproj",
-        "packagesPath": "C:\\Users\\Pedro Almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro Almeida\\Documents\\GitHub\\Alura\\APIRest-.Net_5-Verbos-HTTP\\FilmesAPI\\obj\\",
+        "projectPath": "H:\\Github\\React_Native-Estudo\\FilmesAPI\\FilmesAPI.csproj",
+        "packagesPath": "C:\\Users\\palme\\.nuget\\packages\\",
+        "outputPath": "H:\\Github\\React_Native-Estudo\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pedro Almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\palme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
